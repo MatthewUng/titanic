@@ -1,2 +1,2 @@
-# titanic
-titanic dataset
+# Titanic Dataset
+My attempt at the titanic dataset
